@@ -1,9 +1,9 @@
 {
-    "name": "soleon/sc-php",
+    "name": "vermahemant004/sc-php",
     "description": "SocketCluster - PHP library for interacting with the SocketCluster.io",
     "keywords": ["socketcluster", "realtime", "php", "laravel", "broadcasting"],
     "license": "MIT",
-    "homepage": "https://github.com/soleon-leiloes/sc-php",
+    "homepage": "https://github.com/vermahemant004/sc-php",
     "authors": [
         {
             "name": "Renato Moura",
